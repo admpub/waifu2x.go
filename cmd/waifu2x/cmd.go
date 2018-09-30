@@ -8,8 +8,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/admpub/waifu2x-go/data"
 	waifu2x "github.com/admpub/waifu2x.go"
+	"github.com/admpub/waifu2x.go/data"
 )
 
 const (
